@@ -4,8 +4,8 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 
-This is the source code for my [blog](https://ljvmiranda921.github.io). It's a static
-website powered by [Jekyll](https://jekyllrb.com/). 
+This is the source code for my [blog](https://priyankakukreja267.github.io). It's a static
+website powered by [Jekyll](https://jekyllrb.com/).
 
 ## Set-up
 
@@ -18,8 +18,8 @@ gem install bundler
 Then, build the dependencies and call `jekyll serve`
 
 ```shell
-git clone https://github.com/ljvmiranda921/ljvmiranda921.github.io.git 
-cd ljvmiranda921.github.io/
+git clone https://github.com/priyankakukreja267/priyankakukreja267.github.io.git
+cd priyankakukreja267.github.io/
 bundle install
 bundle exec jekyll serve --livereload
 ```
