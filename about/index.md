@@ -7,7 +7,7 @@ permalink: /about/
 
 Hi friends, my name is Priyanka Kukreja and welcome to my blog!
 
-I [build things](https://github.com/ljvmiranda921).
+I [build things](https://github.com/priyankakukreja267).
 
 I started this site to tell the story of my tech journey. I believe in
 **technology that is open, enabling, and life-giving**. I aspire to usher that
