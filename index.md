@@ -7,22 +7,23 @@ layout: home
 
 <div class="divider">
     <div class="left">
-        <img id="profilepic" width="200" height="200" src="assets/profile.JPG" alt="Profile">
+        <img id="profilepic" width="200" height="200" src="assets/profile.jpeg" alt="Profile">
     </div>
     <div class="right">
         <p>Hi, I'm Priyanka Kukreja and welcome to my blog!</p>
         <p>
-            I'm currently a Machine Learning Researcher at <a
-            href="https://thinkingmachin.es/">Thinking Machines Data
-            Science</a>, a data science startup in the Philippines.
+            I am a Machine Learning Engineer at Facebook. My work helps people
+            discover the products they love on FB Marketplace and IG Shopping.
         </p>
         <p>
-            Previously, I received my Masters degree from <a
-            href="https://www.waseda.jp/top/en">Waseda University</a>, and did
-            an internship at <a
-            href="https://www.preferred-networks.jp/en/">Preferred
-            Networks</a>. In this blog, I write about my interests in
-            machine learning, software development, and research.
+            Previously, I received my Master's degree in Computer Science
+            from <a href="https://www.cmu.edu/">Carnegie Mellon University</a>,
+            and did an internship at <a href="https://www.godaddy.com/">
+            GoDaddy</a>, where I predicted the price of a domain name.
+        </p>
+        <p>
+            In this blog, I write about my interests in software engineering
+            and building ML @ scale.
         </p>
     </div>
 </div>
