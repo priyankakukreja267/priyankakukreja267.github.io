@@ -10,7 +10,7 @@ layout: home
         <img id="profilepic" width="200" height="200" src="assets/profile.JPG" alt="Profile">
     </div>
     <div class="right">
-        <p>Hi, I'm Lj Miranda and welcome to my blog!</p>
+        <p>Hi, I'm Priyanka Kukreja and welcome to my blog!</p>
         <p>
             I'm currently a Machine Learning Researcher at <a
             href="https://thinkingmachin.es/">Thinking Machines Data
