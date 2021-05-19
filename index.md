@@ -13,7 +13,7 @@ layout: home
         <p>Hi, I'm Priyanka Kukreja and welcome to my blog!</p>
         <p>
             I am a Machine Learning Engineer at Facebook. My work helps people
-            discover the products they love on FB Marketplace and IG Shopping.
+            discover the products they love to shop on Instagram.
         </p>
         <p>
             Previously, I received my Master's degree in Computer Science
