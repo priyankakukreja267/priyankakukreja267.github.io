@@ -9,17 +9,17 @@ author: "Priyanka Kukreja"
 tags: [ML@scale, Statistics]
 ---
 You would often hear Confidence Interval thrown around casually when your
-product metrics are too noisy or varying so much day over day that it looks
+product metrics are too noisy and varying so much day over day that it looks
 nothing short of spooky wizardry. Well, stabilizing and understanding those
 metrics are a job for another day. For now, let's delve deeper into what
 Confidence Interval (CI) _really_ means and how you can apply it for your
 sprawling large scale Machine Learning application.
 
 Imagine yourself in the middle of a lush green apple orchard, and like most
-worshipper of data, you wonder what would be the mean weight of an apple in
-this orchard?"
+worshippers of data, you wonder:
+> ### *What would be the mean weight of an apple in this orchard?*
 
-A brute force solution would be to aggregate the weight of every single apple, and get its mean. Of course, this does not scale well as your population size (the number of apples) increases to several orders of magnitude greater than what your instrumentation can support. Is there a better way? Indeed there is. You could simply pick a few apples at random, and find their mean weight. We call this batch a sample, and the mean of this sample as the "estimate", unlike the mean of the entire population of apples, and hence was a **"population parameter"**.
+A brute force solution would be to aggregate the weight of every single apple, and get its mean. Of course, this does not scale well as your population size (the number of apples) increases to several orders of magnitude greater than what your instrumentation can support. Is there a better way? Indeed there is. You could simply pick a few apples at random, and find their mean weight. We call this batch a sample, and the mean of this sample as the "estimate", unlike the mean of the entire population of apples which was a **"population parameter"**.
 
 But is this estimate the same as the true population parameter? The simplest way to verify this is to get another batch of apples, weigh them and duly report back. Alas, you would very likely observe that the mean weight is different this time.
 
@@ -64,7 +64,7 @@ Before we jump into hunting for the values of A, B and C, let's discuss
 terminology. A and B are called the lower and upper **Confidence Interval**
 bounds, and C is called the level of confidence. C denotes how sure you are
 that the true population mean lies in the given range. It relies on the
-frequentist scientists' belief of the world that probability of an event  
+frequentist scientists' belief of the world that probability of an event
 occurring in the future is the same as the frequency of its occurrence in the
 past. Note: this may not be a universally applicable assumption (for eg, in
 case of black swan events or in case of some cold start cache problems), but it is a good enough assumption for most use cases.
@@ -125,7 +125,7 @@ the sample.
 estimate them. But this number will vary from sample to sample. This is what
 Confidence Interval tells us: if I were to take repeated samples, 95 % of the time the estimate for the population param would lie between A to B. That is, for every 100 samples we collect from data, 95 of them will have their mean in the given range and 5 will not.
 
-2. Sample mean can be a point data, however population param is always 
+2. Sample mean can be a point data, however population param is always
 expressed as CI
 
 3. Sampling error: every sample would lead to different estimate for a
