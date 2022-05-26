@@ -12,18 +12,17 @@ layout: home
     <div class="right">
         <p>Hi, I'm Priyanka Kukreja and welcome to my blog!</p>
         <p>
-            I am a Machine Learning Engineer at Facebook. My work helps people
-            discover the products they love to shop on Instagram.
+            I am a Senior Software Engineer at Stripe.
+            I protect Stripe from Foreign Exchange Risk
+            as it moves $x billion across the world.
         </p>
         <p>
-            Previously, I received my Master's degree in Computer Science
-            from <a href="https://www.cmu.edu/">Carnegie Mellon University</a>,
-            and did an internship at <a href="https://www.godaddy.com/">
-            GoDaddy</a>, where I predicted the price of a domain name.
+            Previously, I worked at Facebook, Microsoft and Qubole.
+            I received my Master's degree in Computer Science
+            from <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, Pittsburgh.
         </p>
         <p>
-            In this blog, I write about my interests in software engineering
-            and building ML @ scale.
+            In this blog, I write about my experience as a software engineer.
         </p>
     </div>
 </div>
