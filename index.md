@@ -7,7 +7,7 @@ layout: home
 
 <div class="divider">
     <div class="left">
-        <img id="profilepic" width="200" height="300" src="assets/profile.jpeg" alt="Profile">
+        <img id="profilepic" width="258" height="320" src="assets/profile.jpeg" alt="Profile">
     </div>
     <div class="right">
         <p>Hi, I'm Priyanka Kukreja and welcome to my blog!</p>
