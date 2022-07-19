@@ -7,14 +7,13 @@ layout: home
 
 <div class="divider">
     <div class="left">
-        <img id="profilepic" width="200" height="200" src="assets/profile.jpeg" alt="Profile">
+        <img id="profilepic" width="200" height="300" src="assets/profile.jpeg" alt="Profile">
     </div>
     <div class="right">
         <p>Hi, I'm Priyanka Kukreja and welcome to my blog!</p>
         <p>
-            I am a Senior Software Engineer at Stripe.
-            I protect Stripe from Foreign Exchange Risk
-            as it moves $x billion across the world.
+            I am a Tech Lead @ Stripe. I am building financial infrastructure
+            for increasing the GDP of the internet by unlocking global payments across borders
         </p>
         <p>
             Previously, I worked at Facebook, Microsoft and Qubole.
