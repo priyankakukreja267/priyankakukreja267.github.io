@@ -4,7 +4,7 @@ title: Blog
 description: Sharing what I have learnt about building ML @ scale
 permalink: /blog/
 ---
-I have been learning some pretty awesome things while building ML @ scale.
+I have been learning some pretty awesome things while using Aritificial Intelligence @ scale.
 This is my way of sharing what I have learnt.
 I have attempted to explain all concepts from first principles. If you find anything missing, leave a comment!
 
