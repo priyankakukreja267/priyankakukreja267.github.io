@@ -5,11 +5,18 @@ description: About page of Priyanka Kukreja - Blog
 permalink: /about/
 ---
 
-Hi friends, my name is Priyanka Kukreja and welcome to my blog!
+Hi, my name is Priyanka Kukreja and welcome to my blog!
 
 I [build things](https://github.com/priyankakukreja267).
 
-I started this site to tell the story of my tech journey. I believe in
+I was the Tech Lead at Instagram where I used Artificial Intelligence to solve one of the most pressing problems plaguing our communities right now: integrity at Instagram for billions of users across the globe. I made the community a safe space by removing bad content such as nudity, violence, scam, fraud and more.
+
+I grew up in Ballabgarh, a small town at the outskirts of India’s capital, New Delhi. I graduated from BITS - Pilani where I pursued Bachelors in Computer Science and Master’s in Economics. I then attended Carnegie Mellon to pursue a second Master’s in Computer Science where I specialized in Artificial Intelligence. And with this, I became not only the first woman engineer in my family, but also the first engineer.
+
+In the past, I have also worked at Microsoft (2 out of 400 people selected) where I used AI for empowering millions of businesses to make their technology footprint more efficient. Currently, I am working at Stripe where I use AI to smartly move money across borders cheaply and quickly. My work supports millions of small and medium-sized business owners to accept payments from billions of users around the world.
+
+
+<!-- I started this site to tell the story of my tech journey. I believe in
 **technology that is open, enabling, and life-giving**. I aspire to usher that
 potential&mdash;even for just a tiny bit.  There is still a long way to go, and
 this site records my progress.
@@ -49,7 +56,7 @@ quite successful, I've seen it being used in [quantum
 physics](https://arxiv.org/abs/1801.07686),
 [chemistry](https://pubs.acs.org/doi/abs/10.1021/acscentsci.8b00307), and
 [teaching](http://gousios.org/courses/algo-ds/book/string-distance.html#sop-example-using-pyswarms)
-to name a few.  I code mainly in Python and Go, while learning some Elixir and Vue.
+to name a few.  I code mainly in Python and Go, while learning some Elixir and Vue. -->
 
 ## Contact
 
