@@ -1,7 +1,7 @@
 ---
 layout: post
 type: post
-title: "Immigrating to United States for specializing in AI"
+title: "Immigrating to United States to specialize in AI"
 date: 2021-07-19
 category: blog
 comments: true
