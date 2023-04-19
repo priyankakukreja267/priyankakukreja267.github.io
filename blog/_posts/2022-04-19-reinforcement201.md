@@ -14,8 +14,8 @@ Reinforcement learning is a mathematical framework for training an agent to take
 Formally, we can define a reinforcement learning problem as a Markov Decision Process (MDP) represented by a tuple (S, A, P, R, γ), where:
 * S is the set of possible states of the environment.
 * A is the set of possible actions that the agent can take.
-* P is the transition probability function, which defines the probability of transitioning from one state to another given an action. Formally, P(s',r|s,a) = Pr(s_{t+1}=s',r_{t+1}=r|s_t=s,a_t=a), where s' is the next state, r is the reward, s is the current state, a is the current action, and t is the current time step.
-* R is the reward function, which defines the immediate reward received by the agent for taking a particular action in a particular state. Formally, R(s,a) = E[r_{t+1}|s_t=s,a_t=a].
+* P is the transition probability function, which defines the probability of transitioning from one state to another given an action. Formally, P(s',r `|` s,a) = Pr(s_{t+1}=s',r_{t+1}=r`|`s_t=s,a_t=a), where s' is the next state, r is the reward, s is the current state, a is the current action, and t is the current time step.
+* R is the reward function, which defines the immediate reward received by the agent for taking a particular action in a particular state. Formally, R(s,a) = E[r_{t+1}`|`s_t=s,a_t=a].
 * γ is the discount factor, which determines the importance of future rewards. Formally, the discounted cumulative reward, or return, is defined as G_t = ∑_{k=0}^∞ γ^k r_{t+k+1}.
 
 The agent's goal is to learn a policy π: S → A that maximizes the expected cumulative reward:
