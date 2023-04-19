@@ -13,7 +13,7 @@ layout: home
         <p>Hi, I'm Priyanka Kukreja and welcome to my blog!</p>
         <p>
             I am a Tech Lead @ Stripe. I am building financial infrastructure
-            for increasing the GDP of the internet by unlocking global payments across borders
+            for increasing the GDP of the internet by unlocking global payments across borders.
         </p>
         <p>
             Previously, I worked at Facebook, Microsoft and Qubole.
@@ -21,7 +21,7 @@ layout: home
             from <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, Pittsburgh.
         </p>
         <p>
-            In this blog, I write about my experience as a software engineer.
+            In this blog, I write about my experience as a software engineer working on Artificial Intelligence.
         </p>
     </div>
 </div>
