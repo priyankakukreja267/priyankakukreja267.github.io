@@ -1,0 +1,48 @@
+---
+layout: post
+type: post
+title: "Sparse Neural Networks"
+date: 2022-04-18
+category: blog
+comments: true
+author: "Priyanka Kukreja"
+tags: [ai]
+---
+
+Sparse networks refer to artificial neural networks that have a relatively low number of connections between the neurons.
+In contrast to dense networks, where every neuron is connected to every other neuron in the layer,
+sparse networks have only a fraction of those connections.
+
+### Benefits
+Sparse networks are often used in deep learning because they have 2 main benefits over dense networks:
+1. They require fewer parameters to train, which reduces the risk of overfitting and can improve generalization performance.
+2. Sparse networks can be more computationally efficient than dense networks, making them better suited for deployment devices
+ like mobile phone, VR headsets etc which have low storage and compute at their disposal.
+
+### Creating Sparse NN
+There are several ways to create sparse networks.
+1. Randomly prune a dense network after training, removing a certain percentage of the connections between neurons.
+2. Design a network architecture with sparse connectivity patterns, such as the Inception network, which uses multiple parallel paths with sparse connections between them.
+
+### Examples
+Some places where Sparse NN is used:
+1. Image recognition: Sparse convolutional neural networks (CNNs) have been shown to achieve state-of-the-art
+performance on image classification tasks, while requiring fewer parameters than dense CNNs. Sparse CNNs are
+also more computationally efficient, making them suitable for deployment on mobile devices.
+
+2. Speech recognition: Sparse autoencoders can be used to extract high-level features from speech signals,
+which can then be used for speech recognition tasks. By using sparsity constraints during training,
+autoencoders can learn more compact representations of the speech signal, reducing the risk of overfitting
+and improving generalization performance.
+
+3. Natural language processing: Sparse word embeddings can be used to represent words in a text corpus
+as high-dimensional vectors with many zeros, indicating that the word does not appear frequently in the corpus.
+Sparse embeddings can be more computationally efficient than dense embeddings, making them useful for
+large-scale language modeling tasks like information Retrieval.
+
+4. Reinforcement learning: Sparse reward signals can be used to train agents in reinforcement learning tasks,
+ where the agent must learn to take actions in an environment to maximize a reward signal. By using sparse
+ rewards, the agent must learn to explore the environment more efficiently and discover new strategies to achieve its goals.
+
+Overall, sparse networks have shown promising results in a variety of applications and I expect
+even more innovative uses of sparse networks in the future.
