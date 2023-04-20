@@ -3,7 +3,7 @@ layout: post
 type: post
 title: "First steps into Computer Science"
 date: 2021-06-10
-category: blog
+category: career
 comments: true
 author: "Priyanka Kukreja"
 tags: [career]

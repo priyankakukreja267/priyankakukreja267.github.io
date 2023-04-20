@@ -3,7 +3,7 @@ layout: post
 type: post
 title: "Immigrating to United States to specialize in AI"
 date: 2021-07-19
-category: blog
+category: career
 comments: true
 author: "Priyanka Kukreja"
 tags: [career]
